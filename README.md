@@ -4,6 +4,7 @@ hello!
  I add a line
  I add another line
 
-# Image
+# this is Image
 ![The San Juan Mountains are beautiful!](assets/san-juan-mountains.avif "San Juan Mountains")
+
 
