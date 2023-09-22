@@ -7,4 +7,7 @@ hello!
 # this is Image
 ![The San Juan Mountains are beautiful!](assets/san-juan-mountains.avif "San Juan Mountains")
 
+# this is another Image
+![Another image](assets/shiprock.avif "different image")
+
 
