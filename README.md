@@ -2,8 +2,8 @@
 
 # this is the art work I choose as inspiration
 
-# this is Image
-![The San Juan Mountains are beautiful!](assets/san-juan-mountains.avif "San Juan Mountains")
+
+![This is the Inspiration Artwork](den9056_9103_tut5/assets/week8quiz.jpg "Inspiration Artworks")
 
 # this is another Image
 ![Another image](assets/shiprock.avif "different image")
