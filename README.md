@@ -8,4 +8,9 @@
 # This is another Image
 ![Another image](assets/week8quiz2.jpg "second inspiration")
 
-this artwork 
+These artworks incorporate lines and circles set against a clean backdrop, offering ample space for my coding pursuits. Ps.js proves to be a superb tool for creating these artworks, effortlessly generating shapes like lines, circles, and rectangles. Furthermore, JavaScript can employ techniques like loops and randomness for the project. Additionally, the concept of layers remains equally vital.
+
+
+
+
+
